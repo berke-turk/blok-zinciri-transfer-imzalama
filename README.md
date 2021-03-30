@@ -1,2 +1,4 @@
 # blok-zinciri-transfer-imzalama
-Görselleri numarasına göre izlerseniz :))
+Private Key - Public Key.
+Data Signature.
+Verify Signature.
